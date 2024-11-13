@@ -22,6 +22,7 @@ public class Garage {
 	@Setter // Génère le setter pour ce champ
 	private String name;
 
+	// ...
 	/**
 	 * Crée un nouveau garage avec le nom spécifié.
 	 * 
